@@ -11,3 +11,8 @@
 ## Tutorial
 
 - [Tutorial]()
+
+
+### Observação!!
+> Este projeto foi desenvolvido com os aprendizados do Flutter Experience, evento disponibilizado pelo
+Rodrigo Rahman!
